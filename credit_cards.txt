@@ -1,0 +1,27 @@
+[
+    {"issuer":"Chase","name":"Chase Sapphire Reserve","annual_fee":895,
+     "rewards":{"flights_portal":8,"dining":3,"hotels_portal":8,"other":1},
+     "point_value":0.01,
+     "rebates":[
+         {"type":"category","category":"flights_portal","amount":300, "description":"Annual Travel Credit"},
+         {"type":"flat","description":"Apple Music and TV","amount":250},
+         {"type":"flat","description":"Lyft","amount":120},
+         {"type":"flat","description":"Peloton","amount":120},
+         {"type":"flat","description":"Stubhub","amount":300},
+         {"type":"flat","description":"Doordash Dashpass","amount":120},
+         {"type":"flat","description":"Doordash Cash","amount":300},
+         {"type":"flat","description":"Dining","amount":300}
+     ]},
+    {"issuer":"Capital One","name":"Venture X","annual_fee":300,
+     "rewards":{"flights_portal":5,"dining":3,"hotels_portal":10,"other":2},
+     "point_value":0.01,
+     "rebates":[
+         {"type":"category","category":"flights_portal","amount":300, "description":"Annual Travel Credit"}
+     ]},
+    {"issuer":"Amex","name":"Amex Gold","annual_fee":325,
+     "rewards":{"restaurants":4,"supermarkets":4,"flights_portal":3,"other":1},
+     "point_value":0.01,
+     "rebates":[
+         {"type":"flat","description":"Uber Eats Credit","amount":120}
+     ]}
+]

@@ -1,0 +1,2628 @@
+[
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Delta SkyMiles Blue",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Delta SkyMiles Gold",
+        "annual_fee": 150,
+        "rewards": {
+            "other": 1,
+            "restaurants": 4,
+            "supermarkets": 4,
+            "flights_portal": 3
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "First checked bag free",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Delta SkyMiles Gold Business",
+        "annual_fee": 150,
+        "rewards": {
+            "other": 1,
+            "restaurants": 4,
+            "supermarkets": 4,
+            "flights_portal": 3
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Delta SkyMiles Platinum",
+        "annual_fee": 350,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Companion Pass",
+                "amount": 500
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Delta SkyMiles Platinum Business",
+        "annual_fee": 350,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Companion Pass",
+                "amount": 500
+            },
+            {
+                "type": "flat",
+                "description": "First checked bag free",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Delta SkyMiles Reserve",
+        "annual_fee": 650,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Resy Credit",
+                "amount": 240
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Delta SkyMiles Reserve Business",
+        "annual_fee": 550,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Blue Business Cash",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 250.0
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Blue Business Plus",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Blue Cash Everyday",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 250.0
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Blue Cash Preferred",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "$7/mo Disney Bundle Credit",
+                "amount": 84
+            },
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 300.0
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Blue Cash Preferred (Morgan Stanley)",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "$7/mo Disney Bundle Credit",
+                "amount": 84
+            },
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 250.0
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Business Gold",
+        "annual_fee": 375,
+        "rewards": {
+            "other": 1,
+            "restaurants": 4,
+            "supermarkets": 4,
+            "flights_portal": 3
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Business Green",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Business Platinum",
+        "annual_fee": 695,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Dell credit",
+                "amount": 150
+            },
+            {
+                "type": "flat",
+                "description": "Wireless credit",
+                "amount": 120
+            },
+            {
+                "type": "flat",
+                "description": "Airline fee credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "CLEAR credit",
+                "amount": 189
+            },
+            {
+                "type": "flat",
+                "description": "Lounge access",
+                "amount": 650
+            },
+            {
+                "type": "flat",
+                "description": "Hilton credit ($50/qtr)",
+                "amount": 200
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Cash Magnet",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Everyday",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Everyday Preferred",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Gold",
+        "annual_fee": 350,
+        "rewards": {
+            "other": 1,
+            "restaurants": 4,
+            "supermarkets": 4,
+            "flights_portal": 3
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "$10/mo credit for Uber",
+                "amount": 120
+            },
+            {
+                "type": "flat",
+                "description": "$10/mo credit for Grubhub, Cheesecake Factory, Gold Belly, Wine.com, Milk, Shake Shack",
+                "amount": 120
+            },
+            {
+                "type": "flat",
+                "description": "$7/mo credit for Dunkin",
+                "amount": 84
+            },
+            {
+                "type": "flat",
+                "description": "Semi-annual $50 Resy credit",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Green",
+        "annual_fee": 150,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Lounge Access Credit",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Hilton Honors",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Hilton Honors Aspire",
+        "annual_fee": 550,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Hilton Resort Credit",
+                "amount": 250
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Hilton Honors Business",
+        "annual_fee": 175,
+        "rewards": {
+            "other": 5
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "$60 Hilton credit per quarter.",
+                "amount": 240
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Hilton Honors Surpass",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Marriott Bonvoy Brilliant",
+        "annual_fee": 650,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "$25/mo Dining Credit",
+                "amount": 300
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Marriott Bonvoy Business",
+        "annual_fee": 125,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Platinum",
+        "annual_fee": 695,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Hotel Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "Bi-yearly $50 Saks Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "$20/mo Digital Entertainment Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "$15/mo Uber Cash",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "Airline Fee Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "Walmart+ Credit",
+                "amount": 155
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Platinum (Schwab)",
+        "annual_fee": 695,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Hotel Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "$20/mo Digital Entertainment Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "$15/mo Uber Cash",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "Airline Fee Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "Walmart+ Credit",
+                "amount": 155
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Platinum (Morgan Stanley)",
+        "annual_fee": 695,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Hotel Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "$20/mo Digital Entertainment Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "$15/mo Uber Cash",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "Airline Fee Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "Walmart+ Credit",
+                "amount": 155
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Marriott Bonvoy Bevy",
+        "annual_fee": 250,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Lowes",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Schwab Investor",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Amazon Business",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "AMERICAN_EXPRESS",
+        "name": "Rakuten",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 25.0
+            }
+        ]
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Air France KLM",
+        "annual_fee": 89,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Customized Cash Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Premium Rewards",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Premium Rewards Elite",
+        "annual_fee": 550,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Incidental Airline Statement Credits",
+                "amount": 300
+            },
+            {
+                "type": "flat",
+                "description": "Annaul $150 streaming, delivery, fitness, and transit credit",
+                "amount": 150
+            }
+        ]
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Travel Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Unlimited Cash Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Business Advantage Customized Cash",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 300.0
+            }
+        ]
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Business Advantage Unlimited Cash",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 300.0
+            }
+        ]
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Business Advantage Travel Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Platinum Plus",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 300.0
+            }
+        ]
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Free Spirit",
+        "annual_fee": 79,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Companion Flight Voucher",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Atmos Rewards Ascent",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Multiple Checked Bags",
+                "amount": 120
+            }
+        ]
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Atmos Rewards Summit",
+        "annual_fee": 395,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Multiple Checked Bags",
+                "amount": 120
+            },
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Lounge Access",
+                "amount": 300
+            },
+            {
+                "type": "flat",
+                "description": "Wifi Passes",
+                "amount": 60
+            }
+        ]
+    },
+    {
+        "issuer": "BANK_OF_AMERICA",
+        "name": "Atmos Rewards Business",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Multiple Checked Bags",
+                "amount": 120
+            }
+        ]
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "AAdvantage Aviator Red World Elite",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "AAdvantage Aviator World Elite Business",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "First checked bag free",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "AARP Essential Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 100.0
+            }
+        ]
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "AARP Travel Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 100.0
+            }
+        ]
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Carnival World Mastercard",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Emirates Skywards Premium World Elite",
+        "annual_fee": 499,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Emirates Skywards Rewards World Elite",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Frontier Airlines World",
+        "annual_fee": 89,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Hawaiian Airlines World Elite",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "JetBlue",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "JetBlue Business",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Free checked bag",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "JetBlue Plus",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "JetBlue Premier",
+        "annual_fee": 499,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "$300 credit for Paisly, JetBlue's portal.",
+                "amount": 300
+            },
+            {
+                "type": "flat",
+                "description": "5k yearly anniversary credit",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Lufthansa Miles & More",
+        "annual_fee": 89,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Upromise",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 100.0
+            }
+        ]
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Wyndham Rewards Earner",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Wyndham Rewards Earner Business",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+        ]
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Wyndham Rewards Earner Plus",
+        "annual_fee": 75,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+
+        ]
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Hawaiian Airlines World Elite Business",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Hawaiian statement credit",
+                "amount": 99
+            }
+        ]
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Breeze",
+        "annual_fee": 89,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BARCLAYS",
+        "name": "Xbox",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "BREX",
+        "name": "Brex",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Marriott Bonvoy Bountiful",
+        "annual_fee": 250,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Marriott Bonvoy Bold",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Marriott Bonvoy Boundless",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Southwest Performance Business",
+        "annual_fee": 299,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Free Checked Bag",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Southwest Plus",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Free Checked Bag",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Southwest Premier",
+        "annual_fee": 149,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Free Checked Bag",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Southwest Premier Business",
+        "annual_fee": 149,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Free Checked Bag",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Southwest Priority",
+        "annual_fee": 229,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Free Checked Bag",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "United Business",
+        "annual_fee": 150,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Free Checked Bag",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "2x Lounge Pass",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "United Credit",
+                "amount": 125
+            },
+            {
+                "type": "flat",
+                "description": "United Hotels",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Rideshare",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Instacard",
+                "amount": 120
+            },
+            {
+                "type": "flat",
+                "description": "Avis/Budget",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "United Club",
+        "annual_fee": 695,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "2x Checked Bags",
+                "amount": 150
+            },
+            {
+                "type": "flat",
+                "description": "United Lounge",
+                "amount": 750
+            },
+            {
+                "type": "flat",
+                "description": "United Hotels",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "Rideshare",
+                "amount": 150
+            },
+            {
+                "type": "flat",
+                "description": "Instacart",
+                "amount": 240
+            },
+            {
+                "type": "flat",
+                "description": "Avis/Budget",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "United Club Business",
+        "annual_fee": 695,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "2x Checked Bags",
+                "amount": 150
+            },
+            {
+                "type": "flat",
+                "description": "United Credit",
+                "amount": 125
+            },
+            {
+                "type": "flat",
+                "description": "United Hotels",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "Rideshare",
+                "amount": 150
+            },
+            {
+                "type": "flat",
+                "description": "Instacart",
+                "amount": 240
+            },
+            {
+                "type": "flat",
+                "description": "Avis/Budget",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "United Lounge",
+                "amount": 750
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "United Explorer",
+        "annual_fee": 150,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Free Checked Bag",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "2x Lounge Pass",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Rideshare Credits",
+                "amount": 60
+            },
+            {
+                "type": "flat",
+                "description": "United Travel",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "United Hotels",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Avis/Budget",
+                "amount": 50
+            },
+            {
+                "type": "flat",
+                "description": "Instacart+",
+                "amount": 120
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "United Gateway",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "United Quest",
+        "annual_fee": 350,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "United Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "United Hotels",
+                "amount": 150
+            },
+            {
+                "type": "flat",
+                "description": "Rideshare",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Instacart+",
+                "amount": 180
+            },
+            {
+                "type": "flat",
+                "description": "Avis/Budget",
+                "amount": 80
+            },
+            {
+                "type": "flat",
+                "description": "2x Checked Bags",
+                "amount": 150
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Ink Business Cash",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Ink Business Preferred",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Ink Business Unlimited",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Ink Business Premier",
+        "annual_fee": 195,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "IHG Premier",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "IHG Premier Business",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "IHG Traveler",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Sapphire Preferred",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1,
+            "flights_portal": 3,
+            "dining": 3
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Hotel Credit",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Sapphire Reserve",
+        "annual_fee": 795,
+        "rewards": {
+            "other": 1,
+            "flights_portal": 3,
+            "dining": 3
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Travel Credit",
+                "amount": 300
+            },
+            {
+                "type": "flat",
+                "description": "Travel Credit (The Edit)",
+                "amount": 500
+            },
+            {
+                "type": "flat",
+                "description": "Lounge Access",
+                "amount": 469
+            },
+            {
+                "type": "flat",
+                "description": "Dining Credit",
+                "amount": 300
+            },
+            {
+                "type": "flat",
+                "description": "Apple TV / Apple Music",
+                "amount": 250
+            },
+            {
+                "type": "flat",
+                "description": "Dashpass",
+                "amount": 120
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Sapphire Reserve Business",
+        "annual_fee": 795,
+        "rewards": {
+            "other": 1,
+            "flights_portal": 3,
+            "dining": 3
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Travel Credit",
+                "amount": 300
+            },
+            {
+                "type": "flat",
+                "description": "Travel Credit (The Edit)",
+                "amount": 500
+            },
+            {
+                "type": "flat",
+                "description": "Lounge Access",
+                "amount": 469
+            },
+            {
+                "type": "flat",
+                "description": "Apple TV / Apple Music",
+                "amount": 250
+            },
+            {
+                "type": "flat",
+                "description": "Dashpass",
+                "amount": 120
+            },
+            {
+                "type": "flat",
+                "description": "$25/mo DoorDash Promos",
+                "amount": 300
+            },
+            {
+                "type": "flat",
+                "description": "Google Workspace Credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "ZipRecruiter Credit",
+                "amount": 400
+            },
+            {
+                "type": "flat",
+                "description": "$10/mo Lyft Credit",
+                "amount": 120
+            },
+            {
+                "type": "flat",
+                "description": "Gift Card Credit",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Aer Lingus Signature",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Aeroplan",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "British Airways Signature",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Disney Premier",
+        "annual_fee": 49,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 300.0
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Disney",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 150.0
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Freedom Flex",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Freedom Unlimited",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Iberia Signature",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "World of Hyatt",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 600.0
+            }
+        ]
+    },
+    {
+        "issuer": "CHASE",
+        "name": "World of Hyatt Business",
+        "annual_fee": 199,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CHASE",
+        "name": "Amazon Prime",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 150.0
+            }
+        ]
+    },
+    {
+        "issuer": "CAPITAL_ONE",
+        "name": "Quicksilver",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "CAPITAL_ONE",
+        "name": "Savor",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "CAPITAL_ONE",
+        "name": "Spark 1.5% Cash Select",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 750.0
+            }
+        ]
+    },
+    {
+        "issuer": "CAPITAL_ONE",
+        "name": "Spark 1.5% Miles Select",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CAPITAL_ONE",
+        "name": "Spark 2% Cash Plus",
+        "annual_fee": 150,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CAPITAL_ONE",
+        "name": "Spark 2x Miles Plus",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CAPITAL_ONE",
+        "name": "Venture Rewards",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1,
+            "flights_portal": 5,
+            "hotels_portal": 10
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "2x Capital One Lounge Visits",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "CAPITAL_ONE",
+        "name": "Venture X",
+        "annual_fee": 395,
+        "rewards": {
+            "other": 2,
+            "flights_portal": 5,
+            "hotels_portal": 10
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Travel Credit",
+                "amount": 300
+            },
+            {
+                "type": "flat",
+                "description": "Capital One Lounge Access",
+                "amount": 300
+            }
+        ]
+    },
+    {
+        "issuer": "CAPITAL_ONE",
+        "name": "VentureOne",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1,
+            "flights_portal": 5,
+            "hotels_portal": 10
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CITI",
+        "name": "AAdvantage Executive",
+        "annual_fee": 595,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CITI",
+        "name": "AAdvantage MileUp",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CITI",
+        "name": "AAdvantage Platinum Select World Elite",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CITI",
+        "name": "AAdvantage Platinum Select Business",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "First checked bag free",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "CITI",
+        "name": "Double Cash",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "CITI",
+        "name": "Custom Cash",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "CITI",
+        "name": "Strata Premier",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Hotel Credit ($500 min purchase)",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "CITI",
+        "name": "Rewards+",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "CITI",
+        "name": "AT&T Points Plus",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "DISCOVER",
+        "name": "Discover It",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 100.0
+            }
+        ]
+    },
+    {
+        "issuer": "FIRST",
+        "name": "LATAM Airlines",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "FIRST",
+        "name": "LATAM Airlines World Elite",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "FIRST",
+        "name": "Cardless Qatar Signature",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "FIRST",
+        "name": "Cardless Qatar Infinite",
+        "annual_fee": 499,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "FIRST",
+        "name": "Avianca LifeMiles",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "FIRST",
+        "name": "Avianca LifeMiles Elite",
+        "annual_fee": 250,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "FIRST",
+        "name": "ANA Card USA Plus",
+        "annual_fee": 85,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "FNBO",
+        "name": "Amtrak Guest Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "FNBO",
+        "name": "Amtrak Guest Rewards Preferred",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "FNBO",
+        "name": "Best Western Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "FNBO",
+        "name": "Best Western Rewards Premium",
+        "annual_fee": 89,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "PENFED",
+        "name": "Power Cash Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 100.0
+            }
+        ]
+    },
+    {
+        "issuer": "PENFED",
+        "name": "Platinum Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "PENFED",
+        "name": "Pathfinder",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Incidental travel credit (yearly)",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "issuer": "PNC",
+        "name": "Cash Rewards Visa Signature Business",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "SYNCHRONY",
+        "name": "Cathay Pacific",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "SYNCHRONY",
+        "name": "Virgin Red Rewards",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Business Altitude Power",
+        "annual_fee": 195,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Business Altitude Connect",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Altitude Connect",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Altitude Reserve",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Altitude Go",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Cash+",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "FlexPerks Gold",
+        "annual_fee": 85,
+        "rewards": {
+            "other": 2,
+            "restaurants": 4,
+            "supermarkets": 4,
+            "flights_portal": 3
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Business Leverage",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 750.0
+            }
+        ]
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Business Triple Cash Rewards",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 500.0
+            }
+        ]
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Skypass Blue",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Skypass",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "$50 Korean Air credit",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Skypass Select",
+        "annual_fee": 450,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "$200 travel credit",
+                "amount": 200
+            },
+            {
+                "type": "flat",
+                "description": "Korean Air credit",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Skypass Business",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Korean Air credit",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Shopper Cash Rewards",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 250.0
+            }
+        ]
+    },
+    {
+        "issuer": "US_BANK",
+        "name": "Smartly",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "WELLS_FARGO",
+        "name": "Signify Business Cash",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 500.0
+            }
+        ]
+    },
+    {
+        "issuer": "WELLS_FARGO",
+        "name": "Active Cash",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    },
+    {
+        "issuer": "WELLS_FARGO",
+        "name": "Autograph",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "WELLS_FARGO",
+        "name": "Autograph Journey",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "$50 Credit for $50+ Airline Purchase",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "issuer": "WELLS_FARGO",
+        "name": "Choice Privileges",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "WELLS_FARGO",
+        "name": "Choice Privileges Select",
+        "annual_fee": 95,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "WELLS_FARGO",
+        "name": "Bilt",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": []
+    },
+    {
+        "issuer": "WELLS_FARGO",
+        "name": "Expedia One Key",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1.5
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 300.0
+            }
+        ]
+    },
+    {
+        "issuer": "WELLS_FARGO",
+        "name": "Expedia One Key+",
+        "annual_fee": 99,
+        "rewards": {
+            "other": 2
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "PreCheck Credit",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "$100 anniversary bonus",
+                "amount": 100
+            },
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 400.0
+            }
+        ]
+    },
+    {
+        "issuer": "WEB_BANK",
+        "name": "Gemini",
+        "annual_fee": 0,
+        "rewards": {
+            "other": 1
+        },
+        "point_value": 0.01,
+        "rebates": [
+            {
+                "type": "flat",
+                "description": "Signup/Offer",
+                "amount": 200.0
+            }
+        ]
+    }
+]
